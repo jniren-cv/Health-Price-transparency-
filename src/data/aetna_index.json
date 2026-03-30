@@ -1,0 +1,56 @@
+{
+  "reporting_entity_name": "Aetna Health Insurance Company of New York",
+  "reporting_entity_type": "Health Insurance Issuer",
+  "version": "2.0.0",
+  "last_updated_on": "2026-04-05",
+  "reporting_structure": [
+    {
+      "reporting_plans": [{ "plan_name": "Aetna Exchange_Aetna Open Access Elect Choice_3140", "issuer_name": "Aetna Health Insurance Company of New York", "plan_id_type": "hios", "plan_id": "17210NY009", "plan_sponsor_name": "Aetna Health Insurance Company of New York", "plan_market_type": "group" }],
+      "in_network_files": [{ "description": "in-network file", "location": "https://mrf.healthsparq.com/aetnacvs-egress.nophi.kyruushsq.com/prd/mrf/AETNACVS_I/ALICFI/2026-04-05/inNetworkRates/2026-04-05_pl-10c-hr23_Aetna-Health-Insurance-Company-of-New-York.json.gz" }]
+    },
+    {
+      "reporting_plans": [{ "plan_name": "Aetna Exchange_Aetna Open Access Elect Choice_3140", "issuer_name": "Aetna Health Insurance Company of New York", "plan_id_type": "hios", "plan_id": "17210NY009", "plan_sponsor_name": "Aetna Health Insurance Company of New York", "plan_market_type": "group" }],
+      "in_network_files": [{ "description": "in-network file", "location": "https://mrf.healthsparq.com/aetnacvs-egress.nophi.kyruushsq.com/prd/mrf/AETNACVS_I/ALICFI/2026-04-05/inNetworkRates/2026-04-05_pl-122-hr23_Aetna-Health-Insurance-Company-of-New-York.json.gz" }]
+    },
+    {
+      "reporting_plans": [{ "plan_name": "Aetna Exchange_Aetna Open Access Elect Choice_3140", "issuer_name": "Aetna Health Insurance Company of New York", "plan_id_type": "hios", "plan_id": "17210NY009", "plan_sponsor_name": "Aetna Health Insurance Company of New York", "plan_market_type": "group" }, { "plan_name": "Aetna Exchange_Aetna Open Access Elect Choice_3139", "issuer_name": "Aetna Health Insurance Company of New York", "plan_id_type": "hios", "plan_id": "68485NY001", "plan_sponsor_name": "Aetna Health Insurance Company of New York", "plan_market_type": "group" }],
+      "in_network_files": [{ "description": "in-network file", "location": "https://mrf.healthsparq.com/aetnacvs-egress.nophi.kyruushsq.com/prd/mrf/AETNACVS_I/ALICFI/2026-04-05/inNetworkRates/2026-04-05_pl-191-hr23_Aetna-Health-Insurance-Company-of-New-York.json.gz" }]
+    },
+    {
+      "reporting_plans": [{ "plan_name": "Aetna Exchange_Aetna Open Access Elect Choice_3140", "issuer_name": "Aetna Health Insurance Company of New York", "plan_id_type": "hios", "plan_id": "17210NY009", "plan_sponsor_name": "Aetna Health Insurance Company of New York", "plan_market_type": "group" }],
+      "in_network_files": [{ "description": "in-network file", "location": "https://mrf.healthsparq.com/aetnacvs-egress.nophi.kyruushsq.com/prd/mrf/AETNACVS_I/ALICFI/2026-04-05/inNetworkRates/2026-04-05_pl-1d5-hr23_Aetna-Health-Insurance-Company-of-New-York.json.gz" }]
+    },
+    {
+      "reporting_plans": [{ "plan_name": "Aetna Exchange_Aetna Open Access Elect Choice_3139", "issuer_name": "Aetna Health Insurance Company of New York", "plan_id_type": "hios", "plan_id": "68485NY001", "plan_sponsor_name": "Aetna Health Insurance Company of New York", "plan_market_type": "group" }, { "plan_name": "Aetna Exchange_Aetna Open Access Elect Choice_3140", "issuer_name": "Aetna Health Insurance Company of New York", "plan_id_type": "hios", "plan_id": "17210NY009", "plan_sponsor_name": "Aetna Health Insurance Company of New York", "plan_market_type": "group" }],
+      "in_network_files": [{ "description": "in-network file", "location": "https://mrf.healthsparq.com/aetnacvs-egress.nophi.kyruushsq.com/prd/mrf/AETNACVS_I/ALICFI/2026-04-05/inNetworkRates/2026-04-05_pl-1m5-hr23_Aetna-Health-Insurance-Company-of-New-York.json.gz" }]
+    },
+    {
+      "reporting_plans": [{ "plan_name": "Aetna Exchange_Aetna Open Access Elect Choice_3140", "issuer_name": "Aetna Health Insurance Company of New York", "plan_id_type": "hios", "plan_id": "17210NY009", "plan_sponsor_name": "Aetna Health Insurance Company of New York", "plan_market_type": "group" }],
+      "in_network_files": [{ "description": "in-network file", "location": "https://mrf.healthsparq.com/aetnacvs-egress.nophi.kyruushsq.com/prd/mrf/AETNACVS_I/ALICFI/2026-04-05/inNetworkRates/2026-04-05_pl-1ot-hr23_Aetna-Health-Insurance-Company-of-New-York.json.gz" }]
+    },
+    {
+      "reporting_plans": [{ "plan_name": "Aetna Exchange_Aetna Open Access Elect Choice_3140", "issuer_name": "Aetna Health Insurance Company of New York", "plan_id_type": "hios", "plan_id": "17210NY009", "plan_sponsor_name": "Aetna Health Insurance Company of New York", "plan_market_type": "group" }, { "plan_name": "Aetna Exchange_Aetna Open Access Elect Choice_3139", "issuer_name": "Aetna Health Insurance Company of New York", "plan_id_type": "hios", "plan_id": "68485NY001", "plan_sponsor_name": "Aetna Health Insurance Company of New York", "plan_market_type": "group" }],
+      "in_network_files": [{ "description": "in-network file", "location": "https://mrf.healthsparq.com/aetnacvs-egress.nophi.kyruushsq.com/prd/mrf/AETNACVS_I/ALICFI/2026-04-05/inNetworkRates/2026-04-05_pl-1yy-hr23_Aetna-Health-Insurance-Company-of-New-York.json.gz" }]
+    },
+    {
+      "reporting_plans": [{ "plan_name": "Aetna Exchange_Aetna Open Access Elect Choice_3140", "issuer_name": "Aetna Health Insurance Company of New York", "plan_id_type": "hios", "plan_id": "17210NY009", "plan_sponsor_name": "Aetna Health Insurance Company of New York", "plan_market_type": "group" }],
+      "in_network_files": [{ "description": "in-network file", "location": "https://mrf.healthsparq.com/aetnacvs-egress.nophi.kyruushsq.com/prd/mrf/AETNACVS_I/ALICFI/2026-04-05/inNetworkRates/2026-04-05_pl-2bc-hr23_Aetna-Health-Insurance-Company-of-New-York.json.gz" }]
+    },
+    {
+      "reporting_plans": [{ "plan_name": "Aetna Exchange_Aetna Open Access Elect Choice_3140", "issuer_name": "Aetna Health Insurance Company of New York", "plan_id_type": "hios", "plan_id": "17210NY009", "plan_sponsor_name": "Aetna Health Insurance Company of New York", "plan_market_type": "group" }, { "plan_name": "Aetna Exchange_Aetna Open Access Elect Choice_3139", "issuer_name": "Aetna Health Insurance Company of New York", "plan_id_type": "hios", "plan_id": "68485NY001", "plan_sponsor_name": "Aetna Health Insurance Company of New York", "plan_market_type": "group" }],
+      "in_network_files": [{ "description": "in-network file", "location": "https://mrf.healthsparq.com/aetnacvs-egress.nophi.kyruushsq.com/prd/mrf/AETNACVS_I/ALICFI/2026-04-05/inNetworkRates/2026-04-05_pl-2i5-hr23_Aetna-Health-Insurance-Company-of-New-York.json.gz" }]
+    },
+    {
+      "reporting_plans": [{ "plan_name": "Aetna Open Access Elect Choice_60189", "issuer_name": "Aetna Health Insurance Company of New York", "plan_id_type": "ein", "plan_id": "570805126", "plan_sponsor_name": "Aetna Health Insurance Company of New York", "plan_market_type": "group" }],
+      "in_network_files": [{ "description": "in-network file", "location": "https://mrf.healthsparq.com/aetnacvs-egress.nophi.kyruushsq.com/prd/mrf/AETNACVS_I/ALICFI/2026-04-05/inNetworkRates/2026-04-05_pl-4ut-hr23_Aetna-Health-Insurance-Company-of-New-York.json.gz" }]
+    },
+    {
+      "reporting_plans": [{ "plan_name": "Aetna Exchange_Aetna Open Access Elect Choice_3140", "issuer_name": "Aetna Health Insurance Company of New York", "plan_id_type": "hios", "plan_id": "17210NY009", "plan_sponsor_name": "Aetna Health Insurance Company of New York", "plan_market_type": "group" }, { "plan_name": "Aetna Exchange_Aetna Open Access Elect Choice_3139", "issuer_name": "Aetna Health Insurance Company of New York", "plan_id_type": "hios", "plan_id": "68485NY001", "plan_sponsor_name": "Aetna Health Insurance Company of New York", "plan_market_type": "group" }],
+      "in_network_files": [{ "description": "in-network file", "location": "https://mrf.healthsparq.com/aetnacvs-egress.nophi.kyruushsq.com/prd/mrf/AETNACVS_I/ALICFI/2026-04-05/inNetworkRates/2026-04-05_pl-v8-hr23_Aetna-Health-Insurance-Company-of-New-York.json.gz" }]
+    },
+    {
+      "reporting_plans": [{ "plan_name": "Aetna Exchange_Aetna Open Access Elect Choice_3139", "issuer_name": "Aetna Health Insurance Company of New York", "plan_id_type": "hios", "plan_id": "68485NY001", "plan_sponsor_name": "Aetna Health Insurance Company of New York", "plan_market_type": "group" }, { "plan_name": "Aetna Exchange_Aetna Open Access Elect Choice_3140", "issuer_name": "Aetna Health Insurance Company of New York", "plan_id_type": "hios", "plan_id": "17210NY009", "plan_sponsor_name": "Aetna Health Insurance Company of New York", "plan_market_type": "group" }],
+      "in_network_files": [{ "description": "in-network file", "location": "https://mrf.healthsparq.com/aetnacvs-egress.nophi.kyruushsq.com/prd/mrf/AETNACVS_I/ALICFI/2026-04-05/inNetworkRates/2026-04-05_pl-x9-hr23_Aetna-Health-Insurance-Company-of-New-York.json.gz" }]
+    }
+  ]
+}
