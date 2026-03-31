@@ -5,6 +5,7 @@ on:
     branches:
       - main
       - master
+      - claude/revenue-comparison-dashboard-ZEQpd
   workflow_dispatch:
 
 permissions:
