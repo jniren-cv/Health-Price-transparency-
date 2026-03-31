@@ -3,6 +3,7 @@ import OverviewPage      from './pages/OverviewPage';
 import RateExplorerPage  from './pages/RateExplorerPage';
 import RevenueImpactPage from './pages/RevenueImpactPage';
 import QueryBuilderPage  from './pages/QueryBuilderPage';
+import ErrorBoundary     from './components/ErrorBoundary';
 import aetnaIndex from './data/aetna_index.json';
 
 const TABS = [
@@ -44,10 +45,12 @@ export default function App() {
 
       {/* ── Page Content ── */}
       <main className="page-content">
-        {tab === 'overview' && <OverviewPage />}
-        {tab === 'explorer' && <RateExplorerPage />}
-        {tab === 'revenue'  && <RevenueImpactPage />}
-        {tab === 'query'    && <QueryBuilderPage />}
+        <ErrorBoundary key={tab}>
+          {tab === 'overview' && <OverviewPage />}
+          {tab === 'explorer' && <RateExplorerPage />}
+          {tab === 'revenue'  && <RevenueImpactPage />}
+          {tab === 'query'    && <QueryBuilderPage />}
+        </ErrorBoundary>
       </main>
     </div>
   );
