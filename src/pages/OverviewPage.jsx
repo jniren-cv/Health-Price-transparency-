@@ -7,7 +7,7 @@ import {
   PLANS, CPT_CODES, REGIONS, PROVIDERS, REGION_META,
   getRegionAverages, getPercentiles, getRateSpread,
   formatCurrency, cptByCode,
-} from '../data/sampleData';
+} from '../data/index.js';
 
 function StatCard({ label, value, sub, color = '#0369a1' }) {
   return (

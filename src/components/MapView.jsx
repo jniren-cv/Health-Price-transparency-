@@ -1,6 +1,6 @@
 import React, { useMemo } from 'react';
 import { MapContainer, TileLayer, CircleMarker, Popup } from 'react-leaflet';
-import { PROVIDERS, PLANS, formatCurrency } from '../data/sampleData';
+import { PROVIDERS, PLANS, formatCurrency } from '../data/index.js';
 
 const TYPE_COLORS = {
   'Hospital':          '#0369a1',

@@ -4,7 +4,7 @@ import { MapContainer, TileLayer, CircleMarker, Popup } from 'react-leaflet';
 import {
   PLANS, CPT_CODES, REGIONS, PROVIDERS, CPT_CATEGORIES, SPECIALTIES,
   getRegionAverages, getPercentiles, formatCurrency, cptByCode,
-} from '../data/sampleData';
+} from '../data/index.js';
 
 const TYPE_COLORS = { 'Hospital':'#0369a1','Medical Group':'#059669','Outpatient Center':'#7c3aed','Specialty Clinic':'#d97706' };
 

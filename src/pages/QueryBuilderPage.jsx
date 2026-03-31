@@ -7,7 +7,7 @@ import {
   PLANS, CPT_CODES, REGIONS, CPT_CATEGORIES, SPECIALTIES,
   runQuery, getRegionAverages, getPercentiles,
   formatCurrency, cptByCode,
-} from '../data/sampleData';
+} from '../data/index.js';
 
 // Preset query templates
 const PRESETS = [

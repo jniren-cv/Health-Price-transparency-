@@ -7,7 +7,7 @@ import {
 import {
   PLANS, CPT_CODES, REGIONS, getPercentiles, getRates,
   formatCurrency, formatDelta, cptByCode,
-} from '../data/sampleData';
+} from '../data/index.js';
 
 function Input({ label, value, onChange, prefix, suffix, type='number', min, max, step='1' }) {
   return (
